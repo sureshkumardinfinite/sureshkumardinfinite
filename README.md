@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-sureshkumardinfinite/sureshkumardinfinite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+sureshkumardinfinite/sureshkumardinfinite is a repository which consists of list of python utilities and commonly used function in scripts.
 --->
